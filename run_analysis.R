@@ -52,3 +52,5 @@ dcast_dat = dcast(melt_dat, subject + activityLabel ~ variable, mean)
 
 # Write the tidy data to a file
 write.table(dcast_dat, file = "./tidy_data.txt", row.name = FALSE)
+
+
