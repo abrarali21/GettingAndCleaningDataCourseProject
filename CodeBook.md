@@ -122,3 +122,4 @@ These signals were used to estimate variables of the feature vector for each pat
       fBodyGyroJerkMag                  3
   
     Total number of variables is 81 with 180 different observations.
+ 
