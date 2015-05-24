@@ -1,4 +1,5 @@
-library(reshape2) # used for melt() & dcast()
+# Package used for melt() & dcast()
+library(reshape2)
 
 # Read the training dataset
 x_train <- read.table("./UCI HAR Dataset/train/X_train.txt")
