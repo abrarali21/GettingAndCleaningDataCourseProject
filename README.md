@@ -18,3 +18,4 @@ There's an R script run_analysis.R as part of this project that does the followi
   5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
 
 Also included in this project is a code book with the data to indicate all the variables and summaries that were calculated, along with units, and any other relevant information.
+
